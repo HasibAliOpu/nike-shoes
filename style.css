@@ -1,0 +1,12 @@
+.button{
+    width: 20%;
+    padding: 15px;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+}
+.cart{
+    width: 20%;
+}
+.bg{
+    background-color: #FFF9F4;
+}
